@@ -1,0 +1,45 @@
+/****************TAG SELECTORS********************************/
+body:hover {
+  background-color: seashell;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/*
+img: hover{
+  background color gold
+}
+*/
+/*************CLASS SELECTORS************************************/
+.bacon:hover {
+  background-color: red;
+}
+.vegatable:hover {
+  background-color: limegreen;
+}
+
+/*************ID SELECTORS************************************/
+#heading:hover {
+  color: gray;
+  font-size: 50px;
+}
+h3 {
+  color: skyblue;
+  font-size: 30px;
+  font-style: oblique;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+h2 {
+  color: lightslategray;
+  font-size: 30px;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h4 {
+  color: aquamarine;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: green;
+  width: 50px;
+}
